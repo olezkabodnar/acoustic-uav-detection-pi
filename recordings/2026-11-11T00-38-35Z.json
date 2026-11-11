@@ -1,0 +1,9 @@
+{
+  "file": "2026-11-11T00-38-35Z.wav",
+  "start_utc": "2026-11-11T00:38:35.225234+00:00",
+  "seconds": 20.0,
+  "sample_rate": 16000,
+  "microphone": "Lenovo Wired ANC Headset Gen 2: USB Audio (hw:3,0)",
+  "clock_synchronised": true,
+  "gaps_in_audio": false
+}
